@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LegalShield AI",
+    "subtitle": "Built with Zara",
+    "description": "LegalShield AI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://09ac19f607d948dab9d485c63689693b-t9oc.vercel.app",
+    "splashImageUrl": "https://09ac19f607d948dab9d485c63689693b-t9oc.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://09ac19f607d948dab9d485c63689693b-t9oc.vercel.app/image.png",
+    "tagline": "LegalShield AI",
+    "screenshotUrls": [
+      "https://09ac19f607d948dab9d485c63689693b-t9oc.vercel.app/screenshot.png",
+      "https://09ac19f607d948dab9d485c63689693b-t9oc.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://09ac19f607d948dab9d485c63689693b-t9oc.vercel.app/api/webhook"
+  }
+}

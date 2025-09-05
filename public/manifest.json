@@ -1,0 +1,14 @@
+{
+  "name": "LegalShield AI",
+  "description": "LegalShield AI is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://09ac19f6-07d9-48da-b9d4-85c63689693b.vercel.app",
+  "properties": {
+    "app": {
+      "name": "LegalShield AI",
+      "description": "LegalShield AI is a Base Mini App built with Zara.",
+      "url": "https://09ac19f6-07d9-48da-b9d4-85c63689693b.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
